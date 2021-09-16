@@ -46,33 +46,6 @@ proxies:
      udp: true,
     }
   - {
-     name: 🇦🇿 Baku,
-     server: 94.20.154.85,
-     port: 48970,
-     type: ss,
-     cipher: aes-256-gcm,
-     password: ZKEsXkFbUZ2z667YA8A7cEDP,
-     udp: true,
-    }
-  - {
-     name: 🇧🇪 Antwerp,
-     server: 188.95.55.105,
-     port: 48970,
-     type: ss,
-     cipher: aes-256-gcm,
-     password: ZKEsXkFbUZ2z667YA8A7cEDP,
-     udp: true,
-    }
-  - {
-     name: 🇹🇷 Istanbul,
-     server: 107.150.94.13,
-     port: 48970,
-     type: ss,
-     cipher: aes-256-gcm,
-     password: ZKEsXkFbUZ2z667YA8A7cEDP,
-     udp: true,
-    }
-  - {
      name: 🇺🇸 Tampa,
      server: 209.216.92.200,
      port: 48970,
@@ -103,9 +76,6 @@ proxy-groups:
       - 🇫🇷 Marseille
       - 🇬🇧 Glasgow
       - 🇪🇸 Valencia
-      - 🇦🇿 Baku
-      - 🇧🇪 Antwerp
-      - 🇹🇷 Istanbul
       - 🇺🇸 Tampa
       - 🇳🇴 Oslo
   - name: 🔄 Auto
@@ -116,9 +86,6 @@ proxy-groups:
       - 🇫🇷 Marseille
       - 🇬🇧 Glasgow
       - 🇪🇸 Valencia
-      - 🇦🇿 Baku
-      - 🇧🇪 Antwerp
-      - 🇹🇷 Istanbul
       - 🇺🇸 Tampa
       - 🇳🇴 Oslo
       
