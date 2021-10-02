@@ -75,7 +75,7 @@ proxy-groups:
     proxies:
       - 🇫🇷 Marseille
       - 🇬🇧 Glasgow
-      - 🇪🇸 Valencia
+      - 🇵🇹 Lisbon
       - 🇧🇪 Brussels
       - 🇩🇪 Berlin
   - name: 🔄 Auto
@@ -85,7 +85,7 @@ proxy-groups:
     proxies:
       - 🇫🇷 Marseille
       - 🇬🇧 Glasgow
-      - 🇪🇸 Valencia
+      - 🇵🇹 Lisbon
       - 🇧🇪 Brussels
       - 🇩🇪 Berlin
       
