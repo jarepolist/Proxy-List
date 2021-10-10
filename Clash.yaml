@@ -73,9 +73,9 @@ proxy-groups:
   - name: ⏺ Manual
     type: select
     proxies:
-      - 🇹🇷 Istanbul 1
-      - 🇹🇷 Istanbul 2
-      - 🇱🇻 Riga
+      - 🇫🇷 Paris
+      - 🇦🇪 Dubai
+      - 🇬🇧 Glasgow
       - 🇸🇪 Stockholm
       - 🇩🇪 Frankfurt
   - name: 🔄 Auto
@@ -83,9 +83,9 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇹🇷 Istanbul 1
-      - 🇹🇷 Istanbul 2
-      - 🇱🇻 Riga
+      - 🇫🇷 Paris
+      - 🇦🇪 Dubai
+      - 🇬🇧 Glasgow
       - 🇸🇪 Stockholm
       - 🇩🇪 Frankfurt
       
