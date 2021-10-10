@@ -19,26 +19,26 @@ dns:
     
 proxies:
   - {
-      name: 🇹🇷 Istanbul 1,
-      server: 185.17.113.234,
-      port: 811,
+      name: 🇫🇷 Paris,
+      server: 143.244.57.85,
+      port: 39171,
       type: ss,
-      cipher: chacha20-ietf-poly1305,
-      password: G!yBwPWH3Vao,
+      cipher: aes-256-gcm,
+      password: z4pM2gA9QEEC6NRmqTQubm6Z,
       udp: true,
     }
   - {
-     name: 🇹🇷 Istanbul 2,
-     server: 5.188.36.7,
-     port: 33131,
+     name: 🇦🇪 Dubai,
+     server: 45.9.250.101,
+     port: 38742,
      type: ss,
-     cipher: aes-256-cfb,
-     password: 8PHxkfrIIQcq7cUY,
+     cipher: aes-256-gcm,
+     password: DKXfWwc4ebscpXTKpbt85rSH,
      udp: true,
     }
   - {
-     name: 🇱🇻 Riga,
-     server: 188.92.78.150,
+     name: 🇬🇧 Glasgow,
+     server: 185.108.105.81,
      port: 50024,
      type: ss,
      cipher: aes-256-gcm,
