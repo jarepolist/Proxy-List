@@ -38,7 +38,7 @@ proxies:
     }
   - {
      name: 🇦🇪 London,
-     server: 217.146.82.236,
+     server: 185.108.105.69,
      port: 50091,
      type: ss,
      cipher: aes-256-gcm,
