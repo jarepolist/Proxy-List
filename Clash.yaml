@@ -37,7 +37,7 @@ proxies:
      udp: true,
     }
   - {
-     name: 🇬🇧 London,
+     name: 🇦🇪 London,
      server: 5.226.139.216,
      port: 50091,
      type: ss,
@@ -75,7 +75,7 @@ proxy-groups:
     proxies:
       - 🇫🇷 Paris
       - 🇩🇰 Copenhagen
-      - 🇬🇧 London
+      - 🇦🇪 London
       - 🇳🇴 Oslo
       - 🇩🇪 Frankfurt
   - name: 🔄 Auto
@@ -85,7 +85,7 @@ proxy-groups:
     proxies:
       - 🇫🇷 Paris
       - 🇩🇰 Copenhagen
-      - 🇬🇧 London
+      - 🇦🇪 London
       - 🇳🇴 Oslo
       - 🇩🇪 Frankfurt
       
