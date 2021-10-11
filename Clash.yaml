@@ -21,46 +21,46 @@ proxies:
   - {
       name: 🇫🇷 Paris,
       server: 143.244.56.230,
-      port: 39171,
+      port: 50091,
       type: ss,
       cipher: aes-256-gcm,
-      password: z4pM2gA9QEEC6NRmqTQubm6Z,
+      password: X9BaQR6vxFtmwdMTPLrwwJCY,
       udp: true,
     }
   - {
      name: 🇩🇰 Copenhagen,
      server: 193.29.107.117,
-     port: 38742,
+     port: 50091,
      type: ss,
      cipher: aes-256-gcm,
-     password: DKXfWwc4ebscpXTKpbt85rSH,
+     password: X9BaQR6vxFtmwdMTPLrwwJCY,
      udp: true,
     }
   - {
      name: 🇬🇧 Glasgow,
      server: 185.108.105.152,
-     port: 50024,
+     port: 50091,
      type: ss,
      cipher: aes-256-gcm,
-     password: b2jDPHUQxCNa2KmGHZjy7C4B,
+     password: X9BaQR6vxFtmwdMTPLrwwJCY,
      udp: true,
     }
   - {
      name: 🇳🇴 Oslo,
      server: 91.219.215.83,
-     port: 48970,
+     port: 50091,
      type: ss,
      cipher: aes-256-gcm,
-     password: ZKEsXkFbUZ2z667YA8A7cEDP,
+     password: X9BaQR6vxFtmwdMTPLrwwJCY,
      udp: true,
     }
   - {
      name:  🇩🇪 Frankfurt,
      server: 138.199.19.177,
-     port: 48938,
+     port: 50091,
      type: ss,
      cipher: aes-256-gcm,
-     password: 4ejJ8n5ddLuYDUHGXJre2ufJ,
+     password: X9BaQR6vxFtmwdMTPLrwwJCY,
      udp: true,
     }
 
